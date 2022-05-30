@@ -1,0 +1,18 @@
+num,walk_type
+1,Walking
+2,Stairs descending
+3,Standing
+4,Squat
+5,Sitting
+6,Stairs ascending
+7,Ramp
+8,Steep ramp
+9,Slow walking
+10,Fast walking
+11,Sharp start
+12,Walking backwards
+13,Walking sideways
+14,Random walking
+15,Random walk on the track
+16,Walking on balloons
+17,Stepping over

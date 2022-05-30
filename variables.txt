@@ -1,0 +1,13 @@
+num variable
+1 Mmax
+2 ahip_max
+3 ahip_min
+4 aknee_max
+5 h
+6 wks_smoothed
+7 angle_knee
+8 angle_hip
+9 Fz
+10 Mx
+11 Fx
+12 time
